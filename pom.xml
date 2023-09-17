@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>ru.t1consulting</groupId>
 	<artifactId>symbols</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>symbols</name>
 	<description>Project to count symbols in input string using Spring Boot</description>
 	<properties>

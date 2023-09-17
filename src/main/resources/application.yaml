@@ -1,0 +1,2 @@
+server:
+  port: ${SYMBOLS_PORT:8081}
